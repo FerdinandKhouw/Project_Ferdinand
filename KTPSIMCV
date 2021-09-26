@@ -1,0 +1,74 @@
+nik = "6716626452890001"
+nama = "Ferdinand"
+tptlahir = "Pontianak"
+tgllahir = "12-11-2002"
+kelamin = "Laki-Laki"
+darah = "O"
+alamat = "Jl. Arteri Supadio Komp. Duta Bandara"
+agama = "Katolik"
+status = "Belum Kawin"
+pekerjaan = "Pelajar/Mahasiswa"
+kwgnrn = "WNI"
+rtrw = "005/014"
+keldesa = "Parit Baru"
+kec = "Sungai Raya"
+provinsi = "Kalimantan Barat"
+email = "ferdinandkhouw02@gmail.com"
+telp = "0895-2705-9045"
+pendT = "SMA Gembala Baik"
+pekerjaanT = "Marketting/Sales PD. Nando Teknik"
+
+#cetak
+print("==================Kartu Tanda Penduduk====================")
+print("NIK               :", nik)
+print("Nama              :", nama)
+print("Tempat/Tgl Lahir  :", tptlahir, ",", tgllahir)
+print("Jenis Kelamin     :", kelamin, "         ","Gol. Darah :", darah)
+print("Alamat            :", alamat)
+print("      RT/RW       :", rtrw)
+print("      Kel/Desa    :", keldesa)
+print("      Kecamatan   :", kec)
+print("Agama             :", agama)
+print("Status Perkawinan :", status)
+print("Pekerjaan         :", pekerjaan)
+print("Kewarganegaraan   :", kwgnrn)
+print("Berlaku Hingga    : Seumur Hidup")
+print("==========================================================")
+print("===============Surat Izin Mengemudi (A)===================")
+print("1. ", nama)
+print("2. ", tptlahir, ",", "tgllahir")
+print("3. ", darah, "-", kelamin)
+print("4. ", alamat)
+print("   ", keldesa)
+print("   ", kec)
+print("5. ", pekerjaan)
+print("6. ", provinsi)
+print("=========================================================")
+print("===============Surat Izin Mengemudi (C)==================")
+print("1. ", nama)
+print("2. ", tptlahir, ",", "tgllahir")
+print("3. ", darah, "-", kelamin)
+print("4. ", alamat)
+print("   ", keldesa)
+print("   ", kec)
+print("5. ", pekerjaan)
+print("6. ", provinsi)
+print("=========================================================")
+print("====================Curriculum Vitae=====================")
+print("Nama              :", nama)
+print("Tempat/Tgl Lahir  :", tptlahir, ",", tgllahir)
+print("Jenis Kelamin     :", kelamin) 
+print("Gol. Darah        :", darah)
+print("Alamat            :", alamat)
+print("Agama             :", agama)
+print("Status Perkawinan :", status)
+print("Kewarganegaraan   :", kwgnrn)
+print("Email             :", email)
+print("Telepon/Whatsapp  :", telp)
+print("")
+print("~ Pendidikan Terakhir ~")
+print("2017 - 2020        ", pendT)
+print("")
+print("~ Pekerjaan Terakhir~")
+print("2020 - 2021        ", pekerjaanT)
+print("=========================================================")
